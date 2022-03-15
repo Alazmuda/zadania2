@@ -1,0 +1,6 @@
+/* 2.02.2022. Żmuda */
+
+p {
+    color: purple;
+    font-size: 69px;
+}
