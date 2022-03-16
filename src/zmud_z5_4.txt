@@ -9,8 +9,12 @@
 </head>
 
 <body bgcolor="silver">
-    <h1>Żmuda -> liniowy</h1>
-    <p style="color:green; font-size: 59px;">Żmuda</p>
+    <h1 style="color: #800080;font-size: 42 px;"> Żmuda - styl h1 naglówka, wielkość 39 pikseli, maroon zdefiniowany liniowo</h1>
+    <H3> Dyski<br>
+ 
+    HDD<br>
+    SSD<br>
+    M.2 </H3>
 </body>
 
 </html>
