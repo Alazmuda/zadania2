@@ -7,16 +7,20 @@
     <meta name="Author" content="Alicja Żmuda" />
     <!-- 2.02.2022. Żmuda -->
     <style type="text/css">
-        p {
+        h1 {
             color: green;
-            font-size: 79px;
+            font-size: 42px;
         }
     </style>
 </head>
 
 <body bgcolor="silver">
-    <h1>Żmuda -> wewnętrzne</h1>
-    <p>Żmuda</p>
+    <h1> Żmuda -> wewnetrzny</h1>
+    <p>Mlodzieniak - Najlepsze aplikacje microsoft<br>
+ 
+    Word<br>
+    PowerPoint<br>
+    Excel </p>
 </body>
 
 </html>
