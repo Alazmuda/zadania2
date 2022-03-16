@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pl-Pl">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="Author" content="Alicja Żmuda" />
+    <!-- 2.02.2022. Żmuda -->
+</head>
+
+<body>
+    <h1>Selektor prosty</h1>
+    <h2> Selektory proste nazywany inaczej <u>selektor typu</u> </h2>
+    <textarea readonly="readonly" style="width:82%; height:80px; overflow: hidden; resize: none;">
+p
+  {
+    color:red;
+    font-size:14pt;
+   }
+    </textarea>
+    <p>
+      <u>Selektorem prostym</u> jest znaczniki języka XHTML/HTML <b>(np. p, h3, table, img)</b> przypisany do elementu, który chcesz w danym momencie formatować.
+      Styl zdefiniowany dla przykładowego selektora <b>p</b> będzie odnosił się wyłącznie do akapitów zamkniętych w znacznikach &lt;p&gt;&lt;/p&gt; i nie będzie wpływał na pozostałe elementy strony WWW.
+    </p>
+</body>
