@@ -1,6 +1,6 @@
 /* 2.02.2022. Żmuda */
 
-p {
+h1 {
     color: red;
-    font-size: 89px;
+    font-size: 42px;
 }
