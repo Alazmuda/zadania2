@@ -1,0 +1,64 @@
+#tytul1 {
+    color: #f00;
+    font-size: 1cm;
+    text-align: right;
+}
+
+
+/* akapit 1 */
+
+div#akapit1_zmuda {
+    color: #ff6200;
+    font-size: 1cm;
+    text-align: right;
+    font-family: serif;
+    text-decoration: overline;
+    font-style: italic;
+    font-variant: small-caps;
+    text-indent: 3cm;
+}
+
+p#a1z1_zmuda {
+    font-weight: 400;
+    font-size: xx-small;
+    text-transform: uppercase;
+}
+
+p#a1z2_zmuda {
+    font-weight: 600;
+    font-size: medium;
+}
+
+p#a1z3_zmuda {
+    font-weight: 800;
+    font-size: xx-large;
+}
+
+
+/* akapit 2 */
+
+div#akapit2_zmuda {
+    color: #06963f;
+    text-align: center;
+    font-family: sans-serif;
+    text-decoration: line-through;
+    font-style: oblique;
+    font-variant: small-caps;
+    text-indent: 15mm;
+}
+
+p#a2z1_zmuda {
+    font-weight: 300;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+p#a2z2_zmuda {
+    font-weight: 600;
+    font-size: 0.4in;
+}
+
+p#a2z3_zmuda {
+    font-weight: 800;
+    font-size: 1.3em;
+}

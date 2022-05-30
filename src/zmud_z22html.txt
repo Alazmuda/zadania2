@@ -1,1 +1,46 @@
+<!DOCTYPE html>
+<html lang="pl-Pl">
 
+<head>
+    <meta charset="utf-8">
+    <meta name="Author" content="Alicja Żmuda" />
+    <link rel="Stylesheet" type="text/css" href="zmud_z22.css" />
+    <!-- strona 42 -->
+</head>
+
+<body>
+    <p>Usługa poczty elektronicznej została wynaleziona jeszcze przed wprowadzeniem sieci World Wide Web dla głównego nurtu odbiorców.</p>
+    <p>Komputer Tandy TRS-80 Model I emitował tyle zakłóceń, że wiele gier zaprojektowano tak, aby radio AM obok komputera mogło być wykorzystywane do dostarczania dźwięków.</p>
+    <p>W 2005 roku Sony nielegalnie zainstalowało rootkity na 22 milionach komputerów, aby uniemożliwić użytkownikom zgrywanie muzyki chronionej prawem autorskim i nie można było ich odinstalować.</p>
+    <p>YouTube został założony przez 3 byłych pracowników PayPala.</p>
+
+    <p id="gruby_zmuda">W niektórych krajach w latach 70 w tym w Wielkiej Brytanii, Polsce, na Węgrzech i w Holandii, przechowywanie danych na kasetach było tak popularne, że niektóre stacje radiowe nadawały programy komputerowe, które słuchacze mogli nagrywać na kasetę,
+        a następnie ładować do swojego komputera.</p>
+    <p id="gruby_zmuda">Istnieje ponad 700 języków programowania na świecie</p>
+    <p id="gruby_zmuda">Ponad 80% wszystkich wiadomości e-mail, które przeciętna osoba otrzymuje codziennie to Spam.</p>
+    <p id="gruby_zmuda">Sieć WWW została stworzona w CERN w Szwajcarii w 1990 roku przez Brytyjczyka Tima Berners-Lee.</p>
+
+    <p>
+        <h1 id="dlawszystkich_zmuda">Pierwszy na świecie superkomputer został opracowany przez IBM w 1956 roku.</h1>Ważył prawie tonę i przechowywał tylko 5 MB danych.</p>
+    <p>
+        <h1 id="dlawszystkich_zmuda"> Internet został opracowany w Stanach Zjednoczonych przez „Agencję Zaawansowanych Projektów Badawczych Departamentu Obrony Stanów Zjednoczonych”.</h1>Po raz pierwszy został połączony w październiku 1969 roku i nosił nazwę ARPANET.</p>
+    <p>
+        <h1 id="dlawszystkich_zmuda">Pierwsza mysz komputerowa została wykonana z drewna.</h1>Stworzona została w 1964 roku.</p>
+    <p>
+        <h1 id="dlawszystkich_zmuda">5000 domen jest rejestrowanych co godzinę. </h1>To przekłada się na 120 tysięcy domen dziennie i 43 miliony nazw domen rocznie. Na ponad 75% domenach są tylko reklamy albo nic się nie wyświetla.</p>
+
+
+    <p>
+        <div id="dlawszystkich_zmuda">Stany Zjednoczone wybrały 00000000 jako hasło do komputerowego sterowania pociskami nuklearnymi.</div>Nie zmieniono hasła przez osiem lat.</p>
+    <p>
+        <div id="dlawszystkich_zmuda">Pierwsza mysz komputerowa została wykonana z drewna.</div>Stworzona została w 1964 roku.</p>
+    <p>
+        <div id="dlawszystkich_zmuda">Niektóre z największych marek komputerowych rozpoczęły działalność w garażach.</div>Dotyczy to Apple, Microsoft i HP.</p>
+    <p>
+        <div id="dlawszystkich_zmuda">Pierwszy znany programista komputerowy był kobietą.</div>Nazywała się Ada Lovelace i mieszkała w Anglii, gdzie pracowała jako matematyk i pisarz. Znana jest z pracy nad „Silnikiem analitycznym”.</p>
+
+</body>
+
+</html>
+
+<!-- Alicja Żmuda -->

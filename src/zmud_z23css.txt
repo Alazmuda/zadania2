@@ -1,1 +1,32 @@
+p#pogrubienie_zmuda {
+    font-size: 30px;
+    color: #9A5ACF;
+}
 
+p#pochylona_zmuda {
+    font-size: 35px;
+    color: #FEBE6B;
+}
+
+p#index_gorny_zmuda {
+    font-size: 3cm;
+    color: #AE8C1B;
+}
+
+p#index_dolny_zmuda {
+    font-size: 3.5cm;
+    color: #4AF0E3;
+}
+
+p#mono_zmuda {
+    font-size: 40px;
+    color: #2EDC6B;
+}
+
+p#powiekszenie_zmuda {
+    color: #683C9D;
+}
+
+p#pomniejszenie_zmuda {
+    color: #CCA039;
+}
