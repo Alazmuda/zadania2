@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pl-Pl">
+
+<head>
+    <meta charset="utf-8">
+    <title> Z5 - wewnętrzny </title>
+    <meta name="Author" content="Alicja Żmuda" />
+    <style type="text/css">
+        h1 {
+            color: green;
+            font-size: 42px;
+        }
+    </style>
+</head>
+
+<body bgcolor="silver">
+    <h1> Żmuda -> wewnetrzny</h1>
+    <p>Mlodzieniak - Najlepsze aplikacje microsoft<br>
+ 
+    Word<br>
+    PowerPoint<br>
+    Excel </p>
+</body>
+
+</html>
