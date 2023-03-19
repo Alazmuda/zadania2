@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="pl-Pl">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="Author" content="Alicja Żmuda" />
+    <!-- strona 133 -->
+    <style>
+        table,
+        td {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+
+<body>
+    <ol>
+        <li>
+            <h3>Co to są pseudoklasy?</h3>
+            <p>CSS przewiduje kilka <u>ściśle określonych klas</u> pozwalających na formatowanie niektórych elementów dokumentu są to <b>Pseudoklasy.</b></p>
+        </li>
+
+        <li>
+            <h3>Uwaga dotycząca <b>dwukropka</b>:</h3>
+            <p>Szalenie istotnym elementem w tej konstrukcji jest dwukropek występujący pomiędzy selektorem a nazwą klasy. </p>
+        </li>
+
+        <li>
+            <h3>Tabela opisującą pseudoklasy.</h3>
+            <table>
+                <tr>
+                    <td>
+                        <b>A:link,</b>
+                    </td>
+                    <td>
+                        odpowiada za wygląd hiperłącza, jeżeli nie zostało ono jeszcze odwiedzone.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <b>A:visited,</b>
+                    </td>
+                    <td>
+                        odpowiada za formatowanie hiperłącza już odwiedzonego.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <b>A:hover,</b>
+                    </td>
+                    <td>
+                        zmiany pewnych elementów po najechaniu na nie urządzeniem wskazującym (np. myszą), np. odsyłacz, nad którym zatrzymano kusor lub element blokowy DIV.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <b>A:active,</b>
+                    </td>
+                    <td>
+                        pozwala nadać dowolne formatowanie elementowi po nakierowaniu na niego wskaźnika myszy i wciśnięciu przycisku, ale przed jego zwolnieniem (odsyłacz aktywny -> kliknięty).
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <b>A:focus,</b>
+                    </td>
+                    <td>
+                        jeżeli chcemy, by właśnie wyświetlany odsyłacz z menu był formatowany innym kolorem. Odsyłacz posiadający tzw fokuszaznaczony przy poruszaniu się po dokumencie przy pomocy klawisza tabulacji: naciśnięcie w tym momencie klawisza ENTER spowoduje taką reakcję
+                        przeglądarki, jakby dany odsyłacz został kliknięty.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <b>:lang</b>
+                    </td>
+                    <td>
+                        formatowanie wielojęzykowych dokumentów.
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <b>:first-child</b>
+                    </td>
+                    <td>
+                        umożliwia określenie formatowania dla pierwszego dziecka wybranego elementu.
+                    </td>
+                </tr>
+            </table>
+        </li>
+
+        <li>
+            <h3><u>Zastosowanie pseudoklasy :active</u> </h3>
+            <ol>
+                <li>można używać jako uzupełnienia definicji odnośników</li>
+                <li>jako elementu poprawiającego czytelność formularzy.</li>
+            </ol>
+        </li>
+
+        <li>
+            <h3>Przykłady (trzy) kodów definiowania pseudoklas (wraz z tematem)</h3>
+            <textarea readonly="readonly" style="width:90%; height:215px; overflow: hidden; resize: none;">
+Przykład 1
+Temat: Arkusz wykorzystujący :link oraz :visited pseudoklasy w połączeniu z selektorem
+A. Przykładowa definicja sformatuje odnośnik za pomocą koloru czerwonego i po wybraniu
+taki odnośnik będzie miał kolor zielony.
+A:link
+ {
+ color:red;
+ }
+A:visited
+ {
+ color:green;
+ }
+            </textarea>
+            <textarea readonly="readonly" style="width:90%; height:320px; overflow: hidden; resize: none;">
+Przykład
+Temat: Formatowanie wyglądu wszystkich odnośników w dokumencie XHTML/HTML.
+A /* Definicja odsyłacza podstawowego*/
+ {
+ font-size:12pt;
+ text-decoration:none;
+ }
+A:link
+ {
+ color:navy;
+ }
+A:visited
+ {
+ color:green;
+ }
+A:hover
+ {
+ color:red;
+ text-decoration:underline;
+ }
+            </textarea>
+            <textarea readonly="readonly" style="width:90%; height:100px; overflow: hidden; resize: none;">
+Przykład
+Temat: Zastosowanie :focus
+A:focus
+ {
+ color:braun;
+ }
+            </textarea>
+        </li>
+    </ol>
+</body>
+
+</html>
