@@ -1,0 +1,14 @@
+p {
+    font-size: 19px;
+    color: rgb(15, 102, 174);
+}
+
+p:lang(pl) {
+    font-size: 26px;
+    color: yellow;
+}
+
+p:lang(en) {
+    font-size: 33px;
+    color: gold;
+}

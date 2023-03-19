@@ -1,0 +1,9 @@
+body {
+    color: #9A5ACF;
+    font-size: 30pt;
+}
+
+p {
+    font-size: 20pt;
+    color: #6BB35A;
+}

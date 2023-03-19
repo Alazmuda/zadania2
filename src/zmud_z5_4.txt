@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pl-Pl">
+
+<head>
+    <meta charset="utf-8">
+    <title> Z5 - liniowy </title>
+    <meta name="Author" content="Alicja Żmuda" />
+</head>
+
+<body bgcolor="silver">
+    <h1 style="color: #800080;font-size: 42 px;"> Żmuda - styl h1 naglówka, wielkość 39 pikseli, maroon zdefiniowany liniowo</h1>
+    <H3> Dyski<br>
+ 
+    HDD<br>
+    SSD<br>
+    M.2 </H3>
+</body>
+
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pl-Pl">
+
+<head>
+    <meta charset="utf-8">
+    <title> Z5 - zewnętrzny </title>
+    <meta name="Author" content="Alicja Żmuda" />
+    <link rel="Stylesheet" type="text/css" href="zmud_z5_2.css" />
+</head>
+
+<body bgcolor="silver">
+    <h1>Żmuda -> zewnętrzny</h1>
+    <p>Najlepsze programy do obróbki video <br>
+ 
+    Adobe Premiero Pro<br>
+    Lightworks<br>
+    Adobe Premier Elements </p>
+</body>
+
+</html>

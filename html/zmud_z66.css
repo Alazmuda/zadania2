@@ -1,0 +1,27 @@
+h1 {
+    color: aquamarine;
+    background-color: navy;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h2 {
+    color: limegreen;
+    background-color: darkgreen;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: right;
+}
+
+h3 {
+    color: springgreen;
+    background-color: darkolivegreen;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+
+h4 {
+    color: crimson;
+    background-color: tomato;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
